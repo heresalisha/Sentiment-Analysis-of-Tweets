@@ -1,4 +1,4 @@
-# Sentiment Analysis of Tweets
+# Sentiment Analysis of Tweets (Project Download Link is at the end of the file)
 
 Sentiment analysis on social media platforms like Twitter has gained significant attention due to its potential in extracting valuable insights from user-generated content. This project focuses on leveraging the RoBERTa (Robustly optimized BERT approach) model for sentiment analysis on Twitter data.
 
@@ -32,6 +32,10 @@ It enables users to gain insights into the sentiment of tweets, making it valuab
 ![image](https://github.com/heresalisha/Sentiment-Analysis-of-Tweets/assets/107349457/2dfc7edb-0707-4b5b-a8c6-b86597c6ce42)
 
 ![image](https://github.com/heresalisha/Sentiment-Analysis-of-Tweets/assets/107349457/d1eea207-29fe-4550-a4b9-951e0de35eac)
+
+# Project Download Link
+
+https://drive.google.com/file/d/1w4uDdE-6WADCDyOLmUFWRBHwKSK-0wCl/view?usp=sharing
 
 
 Note : You can style pages as per your preference
