@@ -21,6 +21,18 @@ The Twitter Sentiment Analysis Web Application is a user-friendly tool designed 
 The project leverages pre-trained models and technologies to make sentiment analysis accessible to users in real-time.
 It enables users to gain insights into the sentiment of tweets, making it valuable for monitoring trends, brand management, opinion research, and more.
 
+# Snapshots of the Project
+
+![image](https://github.com/heresalisha/Sentiment-Analysis-of-Tweets/assets/107349457/039cfc47-1e34-4e20-b14c-06c543f18b1e)
+
+![image](https://github.com/heresalisha/Sentiment-Analysis-of-Tweets/assets/107349457/e56126ff-c73e-483b-aaf5-25e706c366ef)
+
+![image](https://github.com/heresalisha/Sentiment-Analysis-of-Tweets/assets/107349457/2eceffcf-df01-4910-89f7-0f0b54b3b9a3)
+
+![image](https://github.com/heresalisha/Sentiment-Analysis-of-Tweets/assets/107349457/2dfc7edb-0707-4b5b-a8c6-b86597c6ce42)
+
+![image](https://github.com/heresalisha/Sentiment-Analysis-of-Tweets/assets/107349457/d1eea207-29fe-4550-a4b9-951e0de35eac)
+
 
 Note : You can style pages as per your preference
 
