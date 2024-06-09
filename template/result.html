@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Result</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <style>
+    body {
+      background-color: black;
+      color:white;
+    }
+
+    .container {
+      background-color: #242124;
+      color:white;
+    }
+  </style>
+  <body>
+    <div class="center-content" >
+    <div class="container my-5" >
+      <div class="d-flex justify-content-center align-items-center flex-column"> 
+        <!--image_url = url_for('static', filename='images/example.jpg')-->
+        <div class="d-flex justify-content-center align-items-center flex-column">
+          <img src="{{image_url}}" width="100"/></div>
+    <h1>Analysis Result</h1>
+    <p style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Sentiment of the tweet is : {{ sentiment }} with a score of {{ percentage }}%.</p><br><br>
+    <a href="/analyze" id="btn1">Back to Home Page</a>
+    </div></div>
+  </body>
+</html>
